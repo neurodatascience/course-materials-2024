@@ -1,0 +1,1 @@
+Materials for the 2024 NeuroDataScience Course (McGill QLS612).
